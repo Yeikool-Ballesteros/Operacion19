@@ -7,7 +7,7 @@ En colaboración con: Natalia arango.
 
 UNIVERSIDAD DEL QUINDÍO
 
-# Descripcion
+# Descripción
 
 Este Proyecto tiene la intención de educar a todas las personas de forma divertida, como lo es un videojuego, acerca de las tecnologías que existen en las 
 diferentes vacunas para el Covid-19, dejando a un lado mitos y dudas, para dejar consigo un conocimiento claro y real, además de fácil de entender.
